@@ -59,10 +59,20 @@ body{
    
 }
 
-.bi {
-    margin-right: 10px;
+.heart-right {
+    margin-right: 15px;
+
 }
 
-.bookmark{
-    margin-left: 345px;
+.chat-right {
+    margin-right: 15px;
+
+}
+.send-right {
+    margin-right: 15px;
+
+}
+
+.icons-left{
+    margin-left: 590px;
 }
